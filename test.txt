@@ -1,1 +1,1 @@
-cd
+welocme to aws and devops
